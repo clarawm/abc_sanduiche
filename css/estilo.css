@@ -10,7 +10,7 @@
 :root {
   --white: #ffffff;
   --black: #000000;
-  --primary: #455a64;
+  --primary: #A47BC8;
   --secondary: #A27CCB;
 }
 
@@ -35,8 +35,11 @@ header ul li a {
   text-decoration: none;
   color: var(--primary);
 }
-
-
+.imagem {
+  margin:0 auto;
+  width:200px;
+  display: flex;
+}
 /* Tabela */
 main > table,
 main > table tr td,
